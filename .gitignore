@@ -19,7 +19,8 @@ pip-delete-this-directory.txt
 # Astronomy data
 *.fits
 downloads/
-data/
+data/processed/
+data/raw/
 
 # Generated files
 plots/
