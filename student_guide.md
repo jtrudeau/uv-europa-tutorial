@@ -40,7 +40,7 @@ The Mikulski Archive for Space Telescopes (MAST) is NASA's primary repository fo
    - Click "Search" to see all HST observations of Europa
 
 2. **Finding Specific Observations**:
-   - Look for Proposal ID "8224" in the results
+   - Look for Proposal ID "8224" in the results (our tutorial data is from this project)
    - Click on an observation to see its details
    - The "Preview" tab shows quick-look images or spectra
    - The "Files" tab lists all available data products
@@ -144,11 +144,11 @@ Key features to look for in the spectra:
 
 ## References and Further Reading
 
-1. McGrath, M. A., et al. (2004). "Satellite atmospheres." Jupiter: The Planet, Satellites and Magnetosphere, 1, 457-483.
+1. McGrath, M. A., et al. (2004). "Satellite atmospheres." Jupiter: The Planet, Satellites and Magnetosphere, 1, 457-483. [link.](https://lasp.colorado.edu/mop/files/2015/08/jupiter_ch19-1.pdf)
 
-2. Hall, D. T., et al. (1998). "Detection of an oxygen atmosphere on Jupiter's moon Europa." Nature, 373(6516), 677-679.
+2. Hall, D. T., et al. (1995). "Detection of an oxygen atmosphere on Jupiter's moon Europa." Nature, 373(6516), 677-679. [link.](https://www.nature.com/articles/373677a0)
 
-3. Roth, L., et al. (2014). "Transient water vapor at Europa's south pole." Science, 343(6167), 171-174.
+3. Roth, L., et al. (2014). "Transient water vapor at Europa's south pole." Science, 343(6167), 171-174. [link.](https://pubmed.ncbi.nlm.nih.gov/24336567/)
 
 4. HST Proposal Information: [MAST Holdings for Proposal 8224](https://archive.stsci.edu/proposal_search.php?id=8224&mission=hst)
 
@@ -233,10 +233,11 @@ The skills you're learning here will be valuable for:
    - Understanding the basics of observation techniques
    - Importance of long-term monitoring. Mission data we could prep for in this project won't be available for years yet!
 
-3. **Next steps**:
+3. **Possible Next Steps**:
    - Scanning open problems with existing (public) data sets 
    - Exploring potential for comparative studies
    - Integration with other observations
    - Extended analysis of previous work
   
-  **Task:** Continue to familiarize yourself with the MAST observation platform.
+  ## **Task** 
+  Continue to familiarize yourself with the MAST observation platform and work through `europa_uv_tutorial.py`

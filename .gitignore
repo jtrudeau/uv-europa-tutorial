@@ -45,4 +45,6 @@ Thumbs.db
 # Project specific
 example_spectrum.fits
 research_papers/ 
-my-resources/
+my-resources/   
+
+MAST_portal_instructions.md
