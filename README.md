@@ -17,7 +17,7 @@ This repository contains materials for the NASA Europa UV spectral analysis work
    ```
 3. Work through the `europa_uv_tutorial.py` tutorial file to learn how to analyze Europa UV spectra.
 
-## Workshop Tasks
+## Student Tasks
 
 After completing the tutorial:
 1. Familiarize yourself with the MAST observation platform
